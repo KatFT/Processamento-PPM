@@ -30,6 +30,8 @@ Por exemplo, o conteúdo do ficheiro img.ppm, correspondente à seguinte imagem:
 255 255 255 # white
  0 0 0 # black
  ```
+A especial atenção que se teve no programa e que foi várias vezes salientada pelo professor é que o ficheiro .pp tinha de ser primeiramente tratado de forma a que não houvesse presença de comentários.
+
 As operações/programas pedidos ao longo do semestre foram os seguintes:
 * Rotação Horizontal
 * Rotação Vertical
