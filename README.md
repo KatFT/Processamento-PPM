@@ -15,7 +15,8 @@ Por exemplo, o conteúdo do ficheiro img.ppm, correspondente à seguinte imagem:
 
 é:
 
-```P3
+```
+P3
 3 2
 255
 # The part above is the header
@@ -33,7 +34,8 @@ Por exemplo, o conteúdo do ficheiro img.ppm, correspondente à seguinte imagem:
 A especial atenção que se teve no programa e que foi várias vezes salientada pelo professor é que o ficheiro .pp tinha de ser primeiramente tratado de forma a que não houvesse presença de comentários.
 Por exemplo a imagem .ppm acima depois do tratamento ficaria da seuinte forma:
 
-```P3
+```
+P3
 3 2
 255
 255 0 0 
