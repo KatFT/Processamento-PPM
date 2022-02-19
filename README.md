@@ -24,13 +24,25 @@ Por exemplo, o conteúdo do ficheiro img.ppm, correspondente à seguinte imagem:
 # "255" is the maximum value for each color
 # The part below is image data: RGB triplets
 255 0 0 # red
- 0 255 0 # green
- 0 0 255 # blue
+0 255 0 # green
+0 0 255 # blue
 255 255 0 # yellow
 255 255 255 # white
- 0 0 0 # black
- ```
+0 0 0 # black
+```
 A especial atenção que se teve no programa e que foi várias vezes salientada pelo professor é que o ficheiro .pp tinha de ser primeiramente tratado de forma a que não houvesse presença de comentários.
+Por exemplo a imagem .ppm acima depois do tratamento ficaria da seuinte forma:
+
+```P3
+3 2
+255
+255 0 0 
+0 255 0 
+0 0 255 
+255 255 0 
+255 255 255 
+0 0 0 
+ ```
 
 As operações/programas pedidos ao longo do semestre foram os seguintes:
 * Rotação Horizontal
